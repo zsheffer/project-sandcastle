@@ -35,3 +35,4 @@ See http://www.fintechsandbox.org/data-partners for the remaining partners, such
 - Stocktwits
 - S&P
 - Interactive Data
+- Other providers.
